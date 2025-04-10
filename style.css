@@ -23,7 +23,7 @@ header h1 {
 
 section {
     padding: 20px;
-    color: red; /* Schriftfarbe für den gesamten Abschnitt rot */
+    /*color: red; /* Schriftfarbe für den gesamten Abschnitt rot */
 }
 
 h2 {
